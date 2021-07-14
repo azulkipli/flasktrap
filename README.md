@@ -31,7 +31,7 @@ Python flask app with Bootstrap 5.0
 
 - Install project requirements with executing
   
-    `pip install`
+    `pip install -r requirements.txt`
 
 ## Develop
 
